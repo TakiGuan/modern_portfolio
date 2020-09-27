@@ -1,2 +1,2 @@
-# modern_portfolio
+# Modern Portfolio
 Responsive portfolio website
